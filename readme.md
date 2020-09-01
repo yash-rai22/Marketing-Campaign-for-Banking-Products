@@ -7,6 +7,8 @@ for liability customers showed a healthy conversion rate of over 9% success. The
 department wants you to build a model that will help them identify the potential
 customers who have a higher probability of purchasing the loan. This will increase the
 success ratio while at the same time reduce the cost of the campaign.
+
+
 Attribute Information:
 ● ID: Customer ID
 ● Age: Customer's age in completed years
@@ -26,6 +28,8 @@ campaign?
 the bank?
 ● Online: Does the customer use internet banking facilities?
 ● Credit card: Does the customer use a credit card issued by the bank?
+
+
 Objective:
 The classification goal is to predict the likelihood of a liability customer buying personal
 loans.
