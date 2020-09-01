@@ -1,4 +1,5 @@
 Context:
+
 The bank has a growing customer base. The bank wants to increase borrowers (asset
 customers) base to bring in more loan business and earn more through the interest on
 loans. So , the bank wants to convert the liability based customers to personal loan
@@ -10,6 +11,7 @@ success ratio while at the same time reduce the cost of the campaign.
 
 
 Attribute Information:
+
 ● ID: Customer ID
 
 ● Age: Customer's age in completed years
@@ -44,5 +46,6 @@ the bank?
 
 
 Objective:
+
 The classification goal is to predict the likelihood of a liability customer buying personal
 loans.
