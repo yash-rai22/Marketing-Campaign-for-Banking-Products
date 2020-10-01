@@ -1,3 +1,7 @@
+This a Machine Learning based Model which is being made aiming for the betterment of our banks.
+This model predicts that which customer has the highest chance of taking bank loan based on dataset.
+It uses various Machine Learning Algos for better accuracy.
+
 Context:
 
 The bank has a growing customer base. The bank wants to increase borrowers (asset
